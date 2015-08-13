@@ -2,7 +2,7 @@ SHELL=/bin/bash
 
 all:
 
-COPIED=style.css ingolia.jpg banner.png ingolia-cv.pdf mcglincy1.jpg
+COPIED=style.css ingolia.jpg banner.png ingolia-cv.pdf mcglincy1.jpg mcglincy-cv.pdf
 
 $(addprefix WWW/,$(COPIED)): WWW/%: src/%
 	mkdir -p $(dir $@)
