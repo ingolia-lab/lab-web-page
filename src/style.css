@@ -104,6 +104,44 @@ div.person-header {
   text-align: right;
 }
 
+.alum-left {
+  font-variant: small-caps;
+  font-size: large;
+  margin: 0 0 0 0;
+  float: left;
+  width: 28%;
+  padding: 0% 0% 0% 2%;
+  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  text-align: left;
+}
+
+.alum-middle {
+  font-variant: small-caps;
+  margin: 0 0 0 0;
+  float: left;
+  width: 27%;
+  padding: 0% 2% 0% 0%;
+  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  text-align: left;
+}
+
+.alum-right {
+  font-variant: small-caps;
+  margin: 0 0 0 0;
+  float: right;
+  width: 37%;
+  padding: 0% 2% 0% 0%;
+  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  text-align: right;
+}
+
+
 /* Software entries */
 .software-desc {
   float: left; width: 400px; margin: 0 0 20px 0; padding: 0;
