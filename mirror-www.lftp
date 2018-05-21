@@ -1,3 +1,3 @@
 set ftp:passive-mode true
-open -u ingolia@fastmail.fm ftp.messagingengine.com
+open -u ingolia@fastmail.fm ftp.fastmail.com
 mirror -e -R WWW ingolia.fastmail.fm/files/www-lab
