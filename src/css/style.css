@@ -62,7 +62,7 @@ div.section-header {
 }
 
 div.section-header p {
-  font-variant: small-caps;
+/*  font-variant: small-caps; */
   font-size: large;
   margin: 0 0 0 0;
   font-family: "Raleway", sans-serif;
@@ -80,7 +80,7 @@ div.person-header {
 }
 
 .person-left {
-  font-variant: small-caps;
+/*  font-variant: small-caps; */
   font-size: large;
   margin: 0 0 0 0;
   float: left;
@@ -93,7 +93,7 @@ div.person-header {
 }
 
 .person-right {
-  font-variant: small-caps;
+/*  font-variant: small-caps; */
   margin: 0 0 0 0;
   float: right;
   width: 46%;
@@ -105,7 +105,7 @@ div.person-header {
 }
 
 .alum-left {
-  font-variant: small-caps;
+/*  font-variant: small-caps; */
   font-size: large;
   margin: 0 0 0 0;
   float: left;
@@ -118,7 +118,7 @@ div.person-header {
 }
 
 .alum-middle {
-  font-variant: small-caps;
+/*  font-variant: small-caps; */
   margin: 0 0 0 0;
   float: left;
   width: 27%;
@@ -130,7 +130,7 @@ div.person-header {
 }
 
 .alum-right {
-  font-variant: small-caps;
+/*  font-variant: small-caps; */
   margin: 0 0 0 0;
   float: right;
   width: 37%;
@@ -160,7 +160,7 @@ div.person-header {
   padding: 0 0 .5em 0;
   margin: 0;
   border-bottom:3px solid #505050;
-  font-variant: small-caps;
+/*  font-variant: small-caps; */
 }
 #header p,
 #header h1,
