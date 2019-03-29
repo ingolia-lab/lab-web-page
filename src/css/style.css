@@ -4,7 +4,7 @@ margin:0;
 padding:0;
 color:#222;
 background:#f6f6ff;
-font-family: "Gill Sans", "Trebuchet MS", Calibri, sans-serif;
+font-family: "Lato", sans-serif;
 }
 
 #main a:link { color: #685860; text-decoration: none; }
@@ -17,13 +17,13 @@ font-family: "Gill Sans", "Trebuchet MS", Calibri, sans-serif;
 
 /* Main left-hand navigation bar */
 
-#navbar { background: #f6f6ff; float: left; width: 120px; float; left; padding: .5em; }
+#navbar { background: #f6f6ff; float: left; width: 125px; float; left; padding: .5em; }
 #navbar ul { list-style-type:none; margin:0; padding:0; }
 #navbar a { 
   display:block;
-  width: 120px;
+  width: 125px;
   padding: .5em; 
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left;
@@ -39,9 +39,9 @@ font-family: "Gill Sans", "Trebuchet MS", Calibri, sans-serif;
 #subnavbar li { float: left; }
 #subnavbar a {
   display:block;
-  width: 120px;
+  width: 125px;
   padding: 5px; 
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left;
@@ -65,7 +65,7 @@ div.section-header p {
   font-variant: small-caps;
   font-size: large;
   margin: 0 0 0 0;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left;
@@ -86,7 +86,7 @@ div.person-header {
   float: left;
   width: 46%;
   padding: 0% 0% 0% 2%;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left;
@@ -98,7 +98,7 @@ div.person-header {
   float: right;
   width: 46%;
   padding: 0% 2% 0% 0%;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: right;
@@ -111,7 +111,7 @@ div.person-header {
   float: left;
   width: 28%;
   padding: 0% 0% 0% 2%;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left;
@@ -123,7 +123,7 @@ div.person-header {
   float: left;
   width: 27%;
   padding: 0% 2% 0% 0%;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left;
@@ -135,7 +135,7 @@ div.person-header {
   float: right;
   width: 37%;
   padding: 0% 2% 0% 0%;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: right;
@@ -169,7 +169,7 @@ div.person-header {
 #header h4 {
   padding:.25em .25em 0 .25em;
   margin:0;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left
@@ -191,13 +191,13 @@ div.person-header {
 #footer p {
   padding:.2em .2em 0 .2em;
   margin:0;
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Lato", sans-serif;
   font-style: normal;
   text-decoration: none;
   text-align: left;
 }
 #footer div {
-  font-family: "Century Gothic", "Avant Garde", "Avant Garde Gothic", "URW Gothic L", sans-serif;
+  font-family: "Lato", sans-serif;
   font-style: normal;
   text-decoration: none; 
 }
