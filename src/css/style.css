@@ -13,34 +13,15 @@ font-family: "Lato", sans-serif;
 
 #outer { background: #f6f6ff; width: 800px; margin:0 auto; }
 
-#main { background: #f6f6ff; width: 600px; float: right; padding: 1em; }
+/* Main top navigation bar */
 
-/* Main left-hand navigation bar */
-
-#navbar { background: #f6f6ff; float: left; width: 125px; float; left; padding: .5em; }
-#navbar ul { list-style-type:none; margin:0; padding:0; }
+#navbar { background: #f6f6ff; float: left; width: 800px; float; left; padding: 7px 2px 7px 2px; }
+/* 6 px padding + 1 px border on each side = 14 px total */
+/* #navbar { border-bottom:3px solid #505050; } */
 #navbar a { 
-  display:block;
-  width: 125px;
-  padding: .5em; 
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
-  text-decoration: none;
-  text-align: left;
-  font-size: large;
-}
-#navbar a:link,a:visited { color: #303840; text-decoration: none; }
-#navbar a:hover { color: #202830; text-decoration: none; background: #e0e0f0; }
-
-/* Subsidiary top horizontal navigation bar */
-#subnavbar { background: #f6f6ff; float: left; width: 600px; padding: 0; list-style: none; }
-#subnavbar { border-bottom:3px solid #505050; }
-#subnavbar ul { list-style-type: none; margin: 0; padding: 0; }
-#subnavbar li { float: left; }
-#subnavbar a {
-  display:block;
-  width: 125px;
-  padding: 5px; 
+  display:inline-block;
+  width: 116px;
+  padding: 6px; 
   font-family: "Raleway", sans-serif;
   font-style: normal;
   text-decoration: none;
@@ -49,9 +30,10 @@ font-family: "Lato", sans-serif;
   border-left: 1px #555 solid;
   border-right: 1px #555 solid;
   border-top: 1px #555 solid;
+  border-bottom: 1px #555 solid;  
 }
-#subnavbar a:link,a:visited { color: #303840; text-decoration: none; }
-#subnavbar a:hover { color: #202830; text-decoration: none; background: #e0e0f0; }
+#navbar a:link,a:visited { color: #303840; text-decoration: none; }
+#navbar a:hover { color: #202830; text-decoration: none; background: #e0e0f0; }
 
 /* Section headers */
 div.section-header {
