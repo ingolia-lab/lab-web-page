@@ -1,0 +1,13 @@
+---
+layout: default
+title: Ingolia Lab News
+---
+
+<ul>
+  {% for item in site.data.news %}
+    <div class="section-header">{{ item.date }} &mdash; {{ item.title }}</div>
+    <div>
+      <p>{{ item.content }}</p>
+    </div>
+  {% endfor %}
+</ul>

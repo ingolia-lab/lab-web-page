@@ -1,16 +1,12 @@
-<div id="main">
-  <div class="section-header"><p>Research</p></div>
-
-<!-- RESEARCH -->
-
-<p>
+---
+layout: default
+title: Research of the Ingolia Lab
+---
 We study the translational control of gene expression in order to
 learn how cells change the translation of specific genes and better
 understand the role of this regulation in the cell. Our research makes
 extensive use of genome-scale approaches and deep sequencing.
-</p>
 
-<p>
 The translation of mRNA into protein is a central step in gene
 expression. Recent studies suggest that translation affects protein
 levels as much as transcription. Translational control acts in diverse
@@ -19,9 +15,7 @@ However, there are many gaps in our knowledge of translational
 regulation. We cannot predict the expression level of an mRNA from its
 sequence. We do not have a general framework for understanding how
 RNA-binding proteins affect translation.
-</p>
 
-<p>
 The first step in studying translational control is simply measuring
 it more accurately.  I developed a ribosome profiling technique that
 allows precise and quantitative analysis of genome-wide
@@ -30,9 +24,7 @@ translation, opening new windows on in vivo translation. It also
 reports on the exact position of translating ribosomes. This allows us
 to annotate the actual protein-coding sequences in complicated genomes
 and transcriptomes.
-</p>
 
-<p>
 Ribosome profiling also revealed extensive translation upstream of
 many genes.  This unexpected translation points to the regulated use
 of alternate sites of initiation, including substantial initiation at
@@ -46,6 +38,3 @@ translation. We want to know how changes in the proteins involed in
 initiation interact with these different sites. Finally, we want to
 know the impact of this phenomenon--when does the cell change start
 codon usage, and what are the effects?
-</p>
-
-</div>

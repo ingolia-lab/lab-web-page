@@ -5,8 +5,8 @@
 
 <HTML>
 <HEAD>
-    <TITLE>Ingolia Lab</TITLE>
-    <link rel="stylesheet" href="style.css" type="text/css" />
+    <TITLE>{{ page.title }}</TITLE>
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
 </HEAD>
 <BODY>
   <div id="outer">
@@ -17,14 +17,33 @@
          <h3><a href="http://www.berkeley.edu">University of California, Berkeley</a></h3>
        </div>
        <div style="float: right; width: 391px; padding: 10px 10px 0 10px;">
-         <img src="banner.png">
+         <img src="images/banner.png">
        </div>
     </div>
     <div id="navbar">
       <ul>
         <li><a href="research.html">RESEARCH</a></li>
         <li><a href="people.html">PEOPLE</a></li>
-        <li><a href="publications.html">PUBLICATIONS</a></li>
+        <li><a href="http://scholar.google.com/citations?user=5LXPLI0AAAAJ&sortby=pubdate">PUBLICATIONS</a></li>
+        <li><a href="news.html">NEWS</a></li>
         <li><a href="software.html">SOFTWARE</a></li>
       </ul>
     </div>
+
+    <div id="main">
+      {{ content }}
+    </div>
+
+    <div id="footer">
+       <p>
+         <div style="float: left; width: 46%; padding: 0% 0% 0% 2%;">University of California, Berkeley</div>
+         <div style="float: right; width: 46%; padding: 0% 2% 0% 0%; text-align: right">ingolia at berkeley dot edu</div>
+       </p>
+       <p>
+         <div style="float: left; width: 46%; padding: 0% 0% 0% 2%;">	 <!-- ADDRESS --> </div>
+         <div style="float: right; width: 46%; padding: 0% 2% 0% 0%; text-align: right"> <!-- PHONE --> </div>
+       </p>
+    </div>
+  </div>
+</BODY>
+</HTML>
