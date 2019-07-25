@@ -1,41 +1,74 @@
 - name: Marek Kudla
   position: postdoctoral fellow
-  time: 2014 - 2019
+  time: 2014&mdash;2019
+  group: z_2019
 
 - name: Nicholas McGlincy
   position: postdoctoral fellow
-  time: 2013 - 2018
+  time: 2013&mdash;2018
   now: Scientist at <a href="https://zymergen.com">Zymergen</a>
+  group: z_2018
 
 - name: Mike Harris
   position: graduate student
-  time: 2011 - 2017
+  time: 2011&mdash;2016
+  group: y_2016y
 
 - name: Anna McGeachy
   position: graduate student
-  time: 2010 - 2016
+  time: 2010&mdash;2016
+  group: y_2016z
   now: Bioinformatics Scientist at <a href="http://thermofisher.com">ThermoFisher</a>
 
 - name: Shintaro Iwasaki
   position: postdoctoral fellow
-  time: 2013 - 2016
+  time: 2013&mdash;2016
+  group: z_2016
   now: Chief Scientist (PI) at <a href="http://www.riken.jp/en/research/labs/associate/rna_sys_biochem/">RIKEN</a>
   
 - name: Eric Mills
   position: graduate student
-  time: 2010 - 2015
+  time: 2010&mdash;2015
   now: Resident physician at <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/159101">Massachusetts General Hospital</a>
+  group: y_2015
 
 - name: Anisa Noorassa
   position: Technician / lab manager
-  time: 2014 - 2015
+  time: 2014&mdash;2015
+  group: x_2015
   now: Law student at <a href="https://www.law.berkeley.edu">UC Berkeley School of Law</a>
 
 - name: Lynne Hugendubler
   position: Technician / lab manager
-  time: 2011 - 2013
+  time: 2011&mdash;2013
+  group: x_2013
   now: Technician in <a href="https://emb.carnegiescience.edu/science/faculty/yixian-zheng">the Zheng lab</a>
 
 - name: Hemi Ryu
   position: Technician
-  time: 2011 - 2013
+  time: 2011&mdash;2013
+  group: x_2013
+
+- name: Merle Skribbe
+  position: M.S. Student
+  time: 2018
+  group: w_2018
+
+- name: Mo Amin
+  position: Undergraduate
+
+- name: Kristle Garcia
+  position: Undergraduate
+  time: 2018&mdash;2019
+  group: u_2019
+  now: Technician in <a href="https://goodarzilab.ucsf.edu/">the Goodarzi lab</a>
+
+- name: Nawang Sherpa
+  position: Undergraduate
+  time: 2017&mdash;2019
+  group: u_2019
+
+- name: Lidia Llacsahuanga
+  position: Visiting Undergraduate
+  time: 2017
+  group: u_2017

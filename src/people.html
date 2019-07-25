@@ -10,7 +10,7 @@ title: People of the Ingolia Lab
   <div style="clear: both"></div>
 </div>
 
-{% for person in site.data.people %}
+{% for person in site.data.people-fulltime %}
 <div class="person-header">
   <div class="person-left">{{ person.name }}</div>
   <div class="person-right">{{ person.position }}</div>
@@ -32,13 +32,34 @@ title: People of the Ingolia Lab
 <p></p>
 {% endfor %}
 
+{% for person in site.data.people-shortterm %}
+<div class="person-header">
+  <div class="person-left">{{ person.name }}</div>
+  <div class="person-right">{{ person.position }}</div>
+  <div style="clear: both"></div>
+</div>
+
+<div>
+  <div style="margin: 10px 10px 10px 10px; float: left; width: 170px;">
+      <img src="{{ person.picture }}">
+  </div>
+
+  <div style="float: right; width: 400px;">
+    {{ person.info }}
+  </div>
+
+  <div style="clear: both"></div>
+</div>
+{% endfor %}
+
 <div class="section-header">
 Former Ingolia lab Members
 </div>
 
 <table style="width:100%">
 
-{% for person in site.data.former %}
+{% assign former_sorted = site.data.former | sort:"group" | reverse %}  
+{% for person in former_sorted %}
 <tr>
   <td>{{ person.name }}</td>
   <td>{{ person.position }}</td>
