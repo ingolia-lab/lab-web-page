@@ -1,0 +1,26 @@
+---
+layout: default
+title: Former Ingolia lab Members
+---
+<div class="section-header">
+Former Ingolia lab Members
+</div>
+
+<table style="width:100%">
+
+{% assign former_sorted = site.data.former | sort:"group" | reverse %}  
+{% for person in former_sorted %}
+<tr>
+  <td>{{ person.name }}</td>
+  <td>{{ person.position }}</td>
+  <td>{{ person.time }}</td>
+  <td>{{ person.now }}</td>
+</tr>
+{% endfor %}
+
+</table>
+
+<p>
+  We always enjoy updates from former lab members -- please send
+  them to ingolia at berkeley dot edu.
+</p>
