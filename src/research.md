@@ -2,39 +2,40 @@
 layout: default
 title: Research of the Ingolia Lab
 ---
-We study the translational control of gene expression in order to
-learn how cells change the translation of specific genes and better
-understand the role of this regulation in the cell. Our research makes
-extensive use of genome-scale approaches and deep sequencing.
 
-The translation of mRNA into protein is a central step in gene
-expression. Recent studies suggest that translation affects protein
-levels as much as transcription. Translational control acts in diverse
-processes from cellular stress responses to synaptic plasticity.
-However, there are many gaps in our knowledge of translational
-regulation. We cannot predict the expression level of an mRNA from its
-sequence. We do not have a general framework for understanding how
-RNA-binding proteins affect translation.
+We seek to learn how cells control the translation and stability of
+mRNA transcripts and understand the role of this dynamic regulation in
+maintaining homeostasis and adapting to changing environments. Cells
+tightly control which genes they express as proteins, and the amount
+of each protein they make, and post-transcriptional regulation can
+modulate gene expression based on cellular needs and extracellular
+conditions. Indeed, rapid reprogramming of protein synthesis in
+dynamic environments often depends on modulating the translation and
+stability of existing transcripts.
 
 The first step in studying translational control is simply measuring
-it more accurately.  I developed a ribosome profiling technique that
-allows precise and quantitative analysis of genome-wide
-in vivo translation. Ribosome profiling measures expression at the level of
-translation, opening new windows on in vivo translation. It also
-reports on the exact position of translating ribosomes. This allows us
-to annotate the actual protein-coding sequences in complicated genomes
-and transcriptomes.
+it accurately and completely.  I developed a ribosome profiling
+technique that allows precise and quantitative analysis of genome-wide
+in vivo translation. Ribosome profiling measures expression at the
+level of translation, opening new windows on in vivo translation. It
+also reports on the exact position of translating ribosomes. This
+allows us to annotate the actual protein-coding sequences in
+complicated genomes and transcriptomes. Ribosome profiling also
+revealed extensive translation upstream of many genes.  This
+unexpected translation points to the regulated use of alternate sites
+of initiation, including substantial initiation at non-AUG codons.  We
+believe that start codon selection is an underappreciated point of
+control in gene expression.  The use of alternate sites of initiation
+can produce functionally distinct protein isoforms as well as affect
+the amount of protein synthesized.  We want to know the impact of this
+phenomenon--when does the cell change start codon usage, and what are
+the effects?
 
-Ribosome profiling also revealed extensive translation upstream of
-many genes.  This unexpected translation points to the regulated use
-of alternate sites of initiation, including substantial initiation at
-non-AUG codons.  We believe that start codon selection is an
-underappreciated point of control in gene expression.  The use of
-alternate sites of initiation can produce functionally distinct
-protein isoforms as well as affect the amount of protein synthesized.
-This poses several questions that we want to address. We want to
-understand how the potential start sites in an mRNA affect its
-translation. We want to know how changes in the proteins involed in
-initiation interact with these different sites. Finally, we want to
-know the impact of this phenomenon--when does the cell change start
-codon usage, and what are the effects?
+Regulation of mRNA translation and stability depends on mRNA-binding
+proteins, which are as numerous as sequence-specific transcription
+factors, suggesting a pervasive role for post- transcriptional
+regulation in cell physiology. We are thus very interested in a
+genetic and molecular understanding of these RNA-binding proteins, and
+much of our work focuses on developing comprehensive and
+high-throughput techniques for elucidating post-transcriptional
+regulatory networks. 
