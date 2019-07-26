@@ -26,7 +26,9 @@
 
 - name: Sam Fernandez
   position: Graduate Student (MCB)
-  picture: images/samFernandez.jpg
+  picture: images/FernandezS.png
+  info: >
+    <p>s.fernandez at berkeley dot edu</p>
 
 - name: Wren Kim
   position: Postdoctoral Fellow
