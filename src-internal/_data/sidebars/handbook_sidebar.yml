@@ -1,0 +1,24 @@
+entries:
+- title: sidebar
+  product: Ingolia Lab Handbook
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction
+    output: web, pdf
+
+  - title: Onboarding
+    output: web, pdf
+    
