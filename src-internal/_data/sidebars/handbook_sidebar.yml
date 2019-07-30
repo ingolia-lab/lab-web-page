@@ -16,9 +16,28 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction
+  - title: Communicating
     output: web, pdf
+    folderitems:
+    - title: Communicating
+      output: web, pdf
+      url: /handbook_communicating.html
+    - title: Talking Online
+      output: web, pdf
+      url: /handbook_communicating.html#talking-online
+    - title: Meetings
+      output: web, pdf
+      url: /handbook_communicating.html#meetings
 
-  - title: Onboarding
+  - title: Logistics
     output: web, pdf
-    
+    folderitems:
+    - title: Logistics
+      output: web, pdf
+      url: /handbook_logistics.html
+    - title: Resources
+      output: web, pdf
+      url: /handbook_logistics.html#resources
+    - title: Purchasing
+      output: web, pdf
+      url: /handbook_logistics.html#purchasing

@@ -1,0 +1,45 @@
+handbook --
+
+Jekyll documentation theme
+https://idratherbewriting.com/documentation-theme-jekyll/#
+
+- Preface
+
+- Expectations
+  * Safety
+  * Integrity
+  * Conduct
+
+  * Roles
+
+- Policies
+  * Hours
+  * Deadlines
+  * Presentations
+  * Letters
+  * Data Management
+  * Code Management
+  * Material Management
+
+* Communicating
+  * Talking Online
+    * Slack
+    * Email
+    * Calendar
+  * Meetings
+    * Lab meeting
+    * Journal club
+    * One-on-one meetings
+    * Open door / drop-in
+
+* Logistics
+  * Resources
+    * Door codes etc.
+    * Google Drive (?)
+    * GitHub
+    * Benchling
+  * Purchasing
+
+- Conferences
+
+- Authorship
