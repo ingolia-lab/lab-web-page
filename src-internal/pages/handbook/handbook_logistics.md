@@ -7,7 +7,7 @@ folder: handbook
 
 ## Resources
 
-### Physical Access
+### Physical access
 
 Barker Hall is open during business hours, and the lab is typically
 left open when it's occupied. After-hours building access is

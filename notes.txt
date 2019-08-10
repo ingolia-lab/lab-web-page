@@ -39,6 +39,9 @@ https://idratherbewriting.com/documentation-theme-jekyll/#
     * GitHub
     * Benchling
   * Purchasing
+    * Quartzy
+    * Barker Storeroom
+    * Oligos
 
 - Conferences
 
