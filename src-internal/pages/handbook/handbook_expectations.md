@@ -61,4 +61,53 @@ research](https://acuc.berkeley.edu/guidelines.html), which require
 all experiments to follow protocols approved by the [Animal Care and
 Use Committee](https://acuc.berkeley.edu). 
 
-## Roles in the Lab
+## Productivity
+
+### Work Hours
+
+Researchers in the lab should be self-motivated, and our shared goal
+should be productive scientific research as one part of a fulfilling
+life. In general, you should feel free to keep a flexible schedule
+that optimizes your research productivity, rather than the number of
+hours you spend in the lab. Biological experiments and shared
+instrumentation often place specific demands on your time that don't
+line up with a specific schedule. If I'm concerned about your
+progress, we may discuss hours as well as the ways you plan and
+organize your work and your overall goals and motivation.
+
+We do need to schedule a few required events for everyone in the lab,
+such as lab meeting. I'll ensure that these events occur during "core"
+work hours that minimize conflicts with other commitments, and I
+encourage you to let me know about any particular schedule constraints
+you have.
+
+### Absences
+
+Full-time lab members should tell me (e.g. by email or Slack) when
+you'll be out of the lab for more than one day, along with the general
+reason you're away. Holidays and personal time off ("vacation") are
+set by contracts for post-docs and staff. Graduate students should use
+the rules for post-docs -- administrative holidays plus 24 days a year
+-- as a guideline for reasonable personal leave. Conferences and the
+associated travel are part of your work, of course, although many
+people take personal vacation time before or after travel.
+
+### Deadlines
+
+## Record-keeping
+
+### Notebooks
+
+### Data
+
+### Code
+
+## 
+
+### Shared Reagents
+
+### Shared Equipment
+
+##
+
+### 
