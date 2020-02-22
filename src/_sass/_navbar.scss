@@ -1,0 +1,31 @@
+// Navbar
+
+.navbar {
+    background: #e0e0f0;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: #303840;
+    text-align: center;
+    padding: 8px 12px;
+    
+    text-decoration: none;
+    
+    font-family: $header-font-family;
+    font-style: normal;
+    font-size: 80%;
+}
+
+.navbar a:hover {
+    color: #e0e0f0;
+    background: #202830;
+    text-decoration: none;
+}
+
+.navbar a.active {
+    color: #202830;
+    background: #c0c0e0;    
+    text-decoration: none;
+}

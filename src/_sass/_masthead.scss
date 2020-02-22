@@ -5,18 +5,18 @@
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: $gray-4;
+  color: #555;
+  font-family: $header-font-family;
 
-  a {
-    color: inherit;
-  }
-
+  a { color: #202830; text-decoration: none; }
+  a:hover { color: #404850;  text-decoration: none; }
+  
   small {
     font-size: 75%;
     font-weight: 400;

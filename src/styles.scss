@@ -18,12 +18,16 @@
 // https://github.com/poole/poole.
 
 @import "variables";
+
+@import "banner";
 @import "base";
 @import "type";
 @import "syntax";
 @import "code";
 @import "layout";
 @import "masthead";
+@import "navbar";
+@import "people";
 @import "posts";
 @import "pagination";
 @import "message";
