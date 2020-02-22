@@ -1,1 +1,30 @@
-name: Ingolia Lab
+# Setup
+title: Ingolia Lab
+url: https://ingolia-lab.org/
+paginate: 1
+baseurl: ""
+permalink: pretty
+
+# Gems
+#plugins:
+#  - jekyll-paginate
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+ga_analytics: UA-158918876-1
+
