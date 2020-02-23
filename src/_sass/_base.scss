@@ -76,3 +76,23 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+div.section-header {
+  width: 100%;
+  background: $nav-bg;
+  padding: .2em;
+  margin: .2em 0 .2em 0;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+
+div.section-header p {
+/*  font-variant: small-caps; */
+  font-size: large;
+  margin: 0 0 0 0;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  text-align: left;
+}
+
