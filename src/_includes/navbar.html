@@ -1,8 +1,9 @@
 <div class="navbar">
-  <a href="/index.html">HOME</a>
-  <a href="/research.html">RESEARCH</a>
-  <a href="/people.html">PEOPLE</a>
-  <a href="http://scholar.google.com/citations?user=5LXPLI0AAAAJ&sortby=pubdate">PUBLICATIONS <i class="fas fa-external-link-alt"></i></a>
-  <a href="/resources.html">RESOURCES</a>
-  <a href="/news.html">NEWS</a>
+  {% for link in site.data.navbar %}
+  {% assign class = nil %}
+  {% if page.url contains link.url %}
+  {% assign class = 'active' %}
+  {% endif %}
+  <a class="{{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.label }}</a>
+  {% endfor %}
 </div>

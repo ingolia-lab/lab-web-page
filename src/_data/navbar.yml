@@ -1,0 +1,20 @@
+- label: HOME
+  url: /index.html
+
+- label: RESEARCH
+  url: /research.html
+
+- label: PEOPLE
+  url: /people.html
+
+- label: PUBLICATIONS <i class="fas fa-external-link-alt"></i>
+  url: /publications.html
+
+- label: RESOURCES
+  url: /resources.html
+
+- label: NEWS
+  url: /news.html
+
+- label: CONTACT
+  url: /contact.html
