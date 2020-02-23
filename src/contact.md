@@ -11,7 +11,7 @@ We are located on the 4th floor of Barker Hall at the University of California, 
 
 Our mailing address is
 
-Prof. Nicholas Ingolia
+Prof. Nicholas Ingolia<br>
 Molecular and Cell Biology<br>
 University of California, Berkeley<br>
 1 Barker Hall # 3202<br>
