@@ -1,0 +1,9 @@
+<div class="navbar">
+  {% for link in site.data.navbar %}
+  {% assign class = nil %}
+  {% if page.url contains link.url %}
+  {% assign class = 'active' %}
+  {% endif %}
+  <a class="{{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.label }}</a>
+  {% endfor %}
+</div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research of the Ingolia Lab
+title: Research
 ---
 
 We seek to learn how cells control the translation and stability of

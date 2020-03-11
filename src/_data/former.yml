@@ -1,33 +1,49 @@
+- name: Shauna Watson
+  position: NIH B2B student
+  group: u_2019
+
+- name: Alex Padr&oacute;n
+  position: Ph.D. student
+  time: 2014&mdash;2019
+  now: Postdoctoral fellow
+  group: y_2019z
+
+- name: Celeste Riepe
+  position: Ph.D. student
+  time: 2014&mdash;2019
+  now: Post-doctoral fellow in the Kopito lab at Stanford
+  group: y_2019y
+
 - name: Marek Kudla
-  position: postdoctoral fellow
+  position: Postdoctoral fellow
   time: 2014&mdash;2019
   group: z_2019
 
 - name: Nicholas McGlincy
-  position: postdoctoral fellow
+  position: Postdoctoral fellow
   time: 2013&mdash;2018
   now: Scientist at <a href="https://zymergen.com">Zymergen</a>
   group: z_2018
 
 - name: Mike Harris
-  position: graduate student
+  position: Ph.D. student
   time: 2011&mdash;2016
   group: y_2016y
 
 - name: Anna McGeachy
-  position: graduate student
+  position: Ph.D. student
   time: 2010&mdash;2016
   group: y_2016z
   now: Bioinformatics Scientist at <a href="http://thermofisher.com">ThermoFisher</a>
 
 - name: Shintaro Iwasaki
-  position: postdoctoral fellow
+  position: Postdoctoral fellow
   time: 2013&mdash;2016
   group: z_2016
   now: Chief Scientist (PI) at <a href="http://www.riken.jp/en/research/labs/associate/rna_sys_biochem/">RIKEN</a>
   
 - name: Eric Mills
-  position: graduate student
+  position: Ph.D. student
   time: 2010&mdash;2015
   now: Resident physician at <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/159101">Massachusetts General Hospital</a>
   group: y_2015

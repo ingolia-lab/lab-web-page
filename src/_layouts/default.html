@@ -1,52 +1,14 @@
-<?xml version="1.0"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+---
+layout: base
+---
+<header class="masthead">
+  <h3 class="masthead-title">
+    <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+    <small>{{ site.tagline }}</small>
+  </h3>
+  {% include navbar.html %}
+</header>
 
-<HTML>
-<HEAD>
-    <TITLE>{{ page.title }}</TITLE>
-    <link rel="stylesheet" href="/css/style.css" type="text/css" />
-    <link rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Raleway">
-    <link rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Lato">
-</HEAD>
-<BODY>
-  <div id="outer">
-    <div id="header">
-       <div style="float: left; width: 369px; padding: 10px 10px 0 10px;">
-         <h1><a href="/index.html">The Ingolia Lab</a></h1>
-         <h3><a href="http://mcb.berkeley.edu/">Dept of Molecular and Cell Biology</a></h3>
-         <h3><a href="http://www.berkeley.edu">University of California, Berkeley</a></h3>
-       </div>
-       <div style="float: right; width: 391px; padding: 10px 10px 0 10px;">
-         <img src="/images/banner.png">
-       </div>
-    </div>
-    <div id="navbar">
-      <a href="/index.html">HOME</a>
-      <a href="/research.html">RESEARCH</a>
-      <a href="/people.html">PEOPLE</a>
-      <a href="http://scholar.google.com/citations?user=5LXPLI0AAAAJ&sortby=pubdate">PUBLICATIONS</a>
-      <a href="/resources.html">RESOURCES</a>
-      <a href="/news.html">NEWS</a>
-    </div>
-
-    <div id="main">
-      {{ content }}
-    </div>
-
-    <div id="footer">
-       <p>
-         <div style="float: left; width: 46%; padding: 0% 0% 0% 2%;">University of California, Berkeley</div>
-         <div style="float: right; width: 46%; padding: 0% 2% 0% 0%; text-align: right">ingolia at berkeley dot edu</div>
-       </p>
-       <p>
-         <div style="float: left; width: 46%; padding: 0% 0% 0% 2%;">	 <!-- ADDRESS --> </div>
-         <div style="float: right; width: 46%; padding: 0% 2% 0% 0%; text-align: right"> <!-- PHONE --> </div>
-       </p>
-    </div>
-  </div>
-</BODY>
-</HTML>
+<main>
+  {{ content }}
+</main>
