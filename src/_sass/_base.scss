@@ -96,3 +96,35 @@ div.section-header p {
   text-align: left;
 }
 
+/* Person headers */
+div.resource-header {
+  width: 100%;
+  background: #d0d0e0;
+  padding: .2em;
+  margin: .2em 0 .2em 0;
+}
+
+.resource-left {
+/*  font-variant: small-caps; */
+  font-size: large;
+  margin: 0 0 0 0;
+  float: left;
+  width: 46%;
+  padding: 0% 0% 0% 2%;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  text-align: left;
+}
+
+.resource-right {
+/*  font-variant: small-caps; */
+  margin: 0 0 0 0;
+  float: right;
+  width: 46%;
+  padding: 0% 2% 0% 0%;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  text-align: right;
+}
