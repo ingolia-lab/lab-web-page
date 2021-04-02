@@ -1,3 +1,8 @@
+- name: Ali Nezhad
+  position: Undergraduate
+  group: u_2020
+  now: Pre-med post-bacc at Johns Hopkins
+
 - name: Shauna Watson
   position: NIH B2B student
   group: u_2019
@@ -5,7 +10,7 @@
 - name: Alex Padr&oacute;n
   position: Ph.D. student
   time: 2014&mdash;2019
-  now: Postdoctoral fellow
+  now: Postdoctoral fellow in the El-Samad lab at UCSF
   group: y_2019z
 
 - name: Celeste Riepe
@@ -29,6 +34,7 @@
   position: Ph.D. student
   time: 2011&mdash;2016
   group: y_2016y
+  now: Adjunct faculty at Diablo Valley College
 
 - name: Anna McGeachy
   position: Ph.D. student
@@ -52,7 +58,7 @@
   position: Technician / lab manager
   time: 2014&mdash;2015
   group: x_2015
-  now: Law student at <a href="https://www.law.berkeley.edu">UC Berkeley School of Law</a>
+  now: Legal intern at ACLU
 
 - name: Lynne Hugendubler
   position: Technician / lab manager
@@ -69,6 +75,7 @@
   position: M.S. Student
   time: 2018
   group: w_2018
+  now: Ph.D. student in Bühler lab at FMI
 
 - name: Mo Amin
   position: Undergraduate
@@ -88,6 +95,7 @@
   position: Visiting Undergraduate
   time: 2017
   group: u_2017
+  now: Ph.D. student at UT Southwestern
 
 - name: Jenny Kang
   position: Undergraduate
