@@ -30,6 +30,12 @@
   info: >
     <p>s.fernandez at berkeley dot edu</p>
 
+- name: Joe Lobel
+  position: Postdoctoral Fellow
+  info: >
+    <p>B.S. Chemistry, Hamilton College, 2013</p>
+    <p>Ph.D., Chemical Biology, University of California, San Francisco, 2020</p>
+
 - name: J. Wren Kim
   position: Postdoctoral Fellow
   picture: images/profile_Aug19.jpg
@@ -50,14 +56,7 @@
   info: >
     <p>B.S. Molecular Biology and Biochemistry, Arizona State University, 2015</p>
 
-- name: Mia Pulos
-  position: Graduate Student (MCB)
-  picture: images/mia.jpg
-  info: >
-    <p>B.S. Cell and Molecular biology, Santa Clara University, 2014</p>
-    <p>Jointly with <a href="http://lanai.qb3.berkeley.edu/CateLab/Home.html">the Cate lab</a>
-
-- name: Kendra Swain
+- name: Kendra Reynaud
   position: Graduate Student (Biophysics)
   picture: images/KS.jpg
   info: >
