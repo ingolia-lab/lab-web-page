@@ -1,3 +1,20 @@
+- name: Zuriah Meacham
+  position: Technician / Lab Manager
+  time: 2014&mdash;2022
+  now: SRA, Acrigen Biosciences
+  group: x_2022
+
+- name: Ryan Muller
+  position: Ph.D. student
+  time: 2016&mdash;2022
+  now: Post-doctoral fellow in the Bartel lab at MIT
+  group: y_2022
+
+- name: Kendra Reynaud
+  position: Ph.D. student
+  time: 2015&mdash;2021
+  group: y_2021
+
 - name: Mia Pulos-Holmes
   position: Ph.D. student (joint)
   time: 2014&mdash;2020
@@ -28,6 +45,7 @@
 - name: Marek Kudla
   position: Postdoctoral fellow
   time: 2014&mdash;2019
+  now: Lead Bioinformatician at <a href="ardigen.com">Ardigen</a>
   group: z_2019
 
 - name: Nicholas McGlincy
@@ -57,7 +75,7 @@
 - name: Eric Mills
   position: Ph.D. student
   time: 2010&mdash;2015
-  now: Resident physician at <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/159101">Massachusetts General Hospital</a>
+  now: Fellow at <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/159101">Massachusetts General Hospital</a>
   group: y_2015
 
 - name: Anisa Noorassa
@@ -101,7 +119,7 @@
   position: Visiting Undergraduate
   time: 2017
   group: u_2017
-  now: Ph.D. student at UT Southwestern
+  now: Ph.D. student at UC Berkeley
 
 - name: Jenny Kang
   position: Undergraduate
